@@ -35,7 +35,5 @@ Security/Integrity: Verifies if ``` ' OR '1'='1 ``` bypasses login.
 
 Latency: Compares response time (ms) between vulnerable and secure implementations.
 
-(If you uploaded a screenshot, keep this line; otherwise delete it)
-
 Author
 [TAN WEIJUN/23087224] Sunway University
