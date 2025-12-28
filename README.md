@@ -31,7 +31,7 @@ python benchmark_test.py
 Experimental Results
 The script tests for:
 
-Security/Integrity: Verifies if ' OR '1'='1 bypasses login.
+Security/Integrity: Verifies if``` ' OR '1'='1 ```bypasses login.
 
 Latency: Compares response time (ms) between vulnerable and secure implementations.
 
